@@ -1,0 +1,22 @@
+.heading {
+  display: flex;
+}
+
+.heading h4 {
+  padding-top: 25px;
+  padding-left: 10px;
+  color: grey;
+}
+
+.row {
+  padding-bottom: 10px;
+}
+
+hr {
+  border-bottom: 1px grey;
+  margin-top: -10px;
+}
+
+.navbar {
+  padding-left: 170px;
+}
